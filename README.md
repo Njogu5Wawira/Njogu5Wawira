@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Njogu5Wawira
-- 👀 I’m interested in learning new things and expanding my career in sales and marketing.
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on various innovative projects
+- 👋 Hi, I’m @Wawira_Njogu
+- 👀 I’m interested in learning code and making a major shift in my career.
+- 🌱 I’m currently learning Python via Cousera
+- 💞️ I’m looking to learn and collaborate with experienced techies
 - 📫 How to reach me sjaded5@gmail.com
 <!---
 Njogu5Wawira/Njogu5Wawira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
